@@ -259,7 +259,7 @@
                 "show": true,
                 "title_case": false,
                 "type": "str",
-                "value": "AIzaSyB4yqWU-NFveIfdwUsNTEQyWxQ4SbbLa1o"
+                "value": "Api key"
               },
               "code": {
                 "advanced": true,
